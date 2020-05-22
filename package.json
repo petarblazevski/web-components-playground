@@ -1,6 +1,6 @@
 {
-  "name": "web-components-playground",
-  "version": "0.0.1",
+  "name": "@petarblazevski/web-components-playground",
+  "version": "0.0.2",
   "description": "Stencil Component Starter",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
@@ -22,7 +22,16 @@
     "generate": "stencil generate"
   },
   "devDependencies": {
-    "@stencil/core": "^1.12.2"
+    "@stencil/core": "^1.12.2",
+    "@types/jest": "24.9.1",
+    "@types/puppeteer": "2.0.1",
+    "jest": "26.0.1",
+    "jest-cli": "26.0.1",
+    "prettier": "^2.0.5",
+    "puppeteer": "2.1.1"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
 }
