@@ -1,3 +1,10 @@
+## [1.2.4](https://github.com/petarblazevski/web-components-playground/compare/v1.2.3...v1.2.4) (2020-05-22)
+
+
+### Bug Fixes
+
+* refactored publish action script ([f20742e](https://github.com/petarblazevski/web-components-playground/commit/f20742ef381e0c19c145d491365cb777e98d5548))
+
 ## [1.2.3](https://github.com/petarblazevski/web-components-playground/compare/v1.2.2...v1.2.3) (2020-05-22)
 
 
