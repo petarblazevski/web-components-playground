@@ -1,3 +1,10 @@
+## [1.2.3](https://github.com/petarblazevski/web-components-playground/compare/v1.2.2...v1.2.3) (2020-05-22)
+
+
+### Bug Fixes
+
+* run command in the pipeline ([a087df3](https://github.com/petarblazevski/web-components-playground/commit/a087df3357a21d0e2313d84c23ab65be9a87b640))
+
 ## [1.2.2](https://github.com/petarblazevski/web-components-playground/compare/v1.2.1...v1.2.2) (2020-05-22)
 
 
