@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/petarblazevski/web-components-playground/compare/v1.1.0...v1.2.0) (2020-05-22)
+
+
+### Features
+
+* add publish pipeline ([82d1723](https://github.com/petarblazevski/web-components-playground/commit/82d1723c9542cecb88410c5afd56356749786190))
+
 # [1.1.0](https://github.com/petarblazevski/web-components-playground/compare/v1.0.0...v1.1.0) (2020-05-22)
 
 
