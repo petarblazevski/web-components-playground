@@ -1,6 +1,6 @@
 {
   "name": "@petarblazevski/web-components-playground",
-  "version": "0.0.2",
+  "version": "1.1.0",
   "description": "Stencil Component Starter",
   "main": "dist/index.js",
   "module": "dist/index.mjs",

@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/petarblazevski/web-components-playground/compare/v1.0.0...v1.1.0) (2020-05-22)
+
+
+### Features
+
+* add semantic release for npm ([5086cb9](https://github.com/petarblazevski/web-components-playground/commit/5086cb94c06ff247de870000dbc66956989c2a08))
+
 # 1.0.0 (2020-05-22)
 
 
