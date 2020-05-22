@@ -2,7 +2,7 @@ name: Publish
 
 on:
   release:
-    types: [published]
+    types: [created]
 
 jobs:
   build:
@@ -13,12 +13,9 @@ jobs:
       - uses: actions/setup-node@v1
         with:
           node-version: 12
+          registry-url: 'https://npm.pkg.github.com'
       - run: npm ci
       - run: npm build
-
-  publish:
-    name: Publish package
-    needs: build
-    runs-on: ubuntu-latest
-    steps:
       - run: npm publish
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
