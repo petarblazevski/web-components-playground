@@ -1,3 +1,10 @@
+## [1.2.2](https://github.com/petarblazevski/web-components-playground/compare/v1.2.1...v1.2.2) (2020-05-22)
+
+
+### Bug Fixes
+
+* update publish action with on event ([5351b5c](https://github.com/petarblazevski/web-components-playground/commit/5351b5cb6443f618beb2cbc3ca230169b45a26f7))
+
 ## [1.2.1](https://github.com/petarblazevski/web-components-playground/compare/v1.2.0...v1.2.1) (2020-05-22)
 
 
